@@ -104,12 +104,34 @@ January 14th @ 05:54:14 UTC
 Identified Token: adminlogin
 Full URI: wp-login.php?itsec-hb-token=adminlogin</h2>
 
+<h2> 🔎 January 14 @ 06:01:41 UTC
+IP: 119.241.22.121 - Japan
+Used tool: WPScan (WordPress Scanner)
+  
+January 14th @ 06:08:31 UTC
+IP: 103.69.55.212 - Taiwan
+Crawling plugins on 172.21.0.3
+
+January 14th @ 06:26:53 UTC
+IP: 119.241.22.121 - Japan
+Exploited plugin: simple-file-list
+Uploaded file named: fr34k.png</h2>
+
+<h2> 🔎 GET Request towards fr34k.php
+IP: 103.69.55.212 - Taiwan
+
+LAST OBSERVED ACTIVITY
+IP: 119.241.22.121 - Japan
+January 14 @ 06:26:53 UTC
+IP: 103.69.55.212 - Taiwan
+January 14 @ 06:30:11 UTC
+
+Total Duration: 47 Minutes & 37 Seconds</h2>
 
 
+<h2>Some Questions and answers based on the log findings</h2>
 
-
-
-
+![questions](https://github.com/princemilkan/ENDPOINT-log-Analysis/assets/25425389/f70a75d6-c2e1-40ec-9b6e-324c7e77f4cd)
 
 
 
